@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/corrupti-nesciunt-consequatur-optio",
-  "version": "1.21.124",
+  "version": "1.21.125",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -380,5 +380,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/corrupti-nesciunt-consequatur-optio/issues"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.5.0"
 }
